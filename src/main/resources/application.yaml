@@ -1,0 +1,12 @@
+spring:
+  jpa:
+    show_sql: true
+    properties:
+      hibernate:
+  h2:
+    console:
+      enabled: true
+#        dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+#        dialect.storage_engine: innodb
+
+
